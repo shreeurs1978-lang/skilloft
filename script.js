@@ -217,3 +217,17 @@ if (searchInput) {
     });
 
 }
+function filterCategory(category) {
+
+    if (category === "all") {
+        displayOpportunities(opportunities);
+        return;
+    }
+
+    const filtered =
+        opportunities.filter(opportunity =>
+            opportunity.category === category
+        );
+
+    displayOpportunities(filtered);
+}
