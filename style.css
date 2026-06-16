@@ -304,5 +304,126 @@ footer{
 .filter-btn:hover {
     transform: translateY(-2px);
 }
+/* Smooth animations */
+
+* {
+    transition: 0.3s ease;
+}
+
+/* Better cards */
+
+.featured-card,
+.card {
+    border-radius: 18px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+/* Hover effect */
+
+.featured-card:hover,
+.card:hover {
+    transform: translateY(-8px);
+}
+
+/* Hero title */
+
+h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+/* Hero subtitle */
+
+p {
+    line-height: 1.7;
+}
+
+/* Better buttons */
+
+.apply-btn,
+.cta-btn {
+
+    border-radius: 999px;
+
+    padding: 12px 24px;
+
+    font-weight: 600;
+
+    text-decoration: none;
+
+    display: inline-block;
+}
+
+/* Button hover */
+
+.apply-btn:hover,
+.cta-btn:hover {
+    transform: scale(1.05);
+}
+
+/* Stats cards */
+
+.stat-box {
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
+/* Category cards */
+
+.card {
+
+    padding: 30px;
+
+    text-align: center;
+
+    font-size: 1.2rem;
+
+    font-weight: 700;
+}
+
+/* Sections */
+
+.about {
+
+    margin-top: 60px;
+
+    padding: 30px;
+
+    border-radius: 20px;
+}
+
+/* Footer */
+
+footer {
+
+    margin-top: 80px;
+
+    padding: 30px;
+
+    text-align: center;
+}
+body {
+    background: #fffafc;
+}
+
+.logo {
+    color: #ff6fa5;
+    font-weight: 800;
+}
+
+.cta-btn,
+.apply-btn {
+
+    background: #ff9ec4;
+
+    color: white;
+}
+
+.cta-btn:hover,
+.apply-btn:hover {
+
+    background: #ff84b4;
+}
 
 

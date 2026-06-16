@@ -133,8 +133,218 @@
         title: "freeCodeCamp",
         category: "courses",
         link: "https://www.freecodecamp.org/"
-    }
+    },
+// MORE INTERNSHIPS
 
+{
+    title: "Yale Young Global Scholars",
+    category: "internships",
+    link: "https://globalscholars.yale.edu/"
+},
+
+{
+    title: "Bank of America Student Leaders",
+    category: "internships",
+    link: "https://about.bankofamerica.com/en/making-an-impact/student-leaders"
+},
+
+{
+    title: "Ladder Internships",
+    category: "internships",
+    link: "https://www.ladderinternships.com/"
+},
+
+{
+    title: "Spark SIP",
+    category: "internships",
+    link: "https://sparkprogram.org/"
+},
+
+{
+    title: "Microsoft Discovery Program",
+    category: "internships",
+    link: "https://careers.microsoft.com/"
+},
+
+{
+    title: "Stanford AIMI Internship",
+    category: "internships",
+    link: "https://aimi.stanford.edu/"
+},
+
+{
+    title: "Lumiere Research Program",
+    category: "internships",
+    link: "https://www.lumiere-education.com/"
+},
+
+{
+    title: "Polygence Research Program",
+    category: "internships",
+    link: "https://www.polygence.org/"
+},
+
+{
+    title: "Pioneer Academics",
+    category: "internships",
+    link: "https://pioneeracademics.com/"
+},
+
+{
+    title: "Veritas AI",
+    category: "internships",
+    link: "https://www.veritasai.com/"
+},
+
+// MORE COMPETITIONS
+
+{
+    title: "Blue Ocean Competition",
+    category: "competitions",
+    link: "https://blueoceancompetition.org/"
+},
+
+{
+    title: "Earth Prize",
+    category: "competitions",
+    link: "https://earthprize.org/"
+},
+
+{
+    title: "MIT THINK",
+    category: "competitions",
+    link: "https://think.mit.edu/"
+},
+
+{
+    title: "iGEM Competition",
+    category: "competitions",
+    link: "https://igem.org/"
+},
+
+{
+    title: "FIRST Robotics Competition",
+    category: "competitions",
+    link: "https://www.firstinspires.org/"
+},
+
+{
+    title: "USACO",
+    category: "competitions",
+    link: "http://www.usaco.org/"
+},
+
+{
+    title: "Breakthrough Junior Challenge",
+    category: "competitions",
+    link: "https://breakthroughjuniorchallenge.org/"
+},
+
+{
+    title: "Future Business Leaders of America",
+    category: "competitions",
+    link: "https://www.fbla.org/"
+},
+
+// MORE SCHOLARSHIPS
+
+{
+    title: "Cameron Impact Scholarship",
+    category: "scholarships",
+    link: "https://www.cameronimpactscholarships.org/"
+},
+
+{
+    title: "Burger King Scholars",
+    category: "scholarships",
+    link: "https://www.bk-scholars.com/"
+},
+
+{
+    title: "Jack Kent Cooke Scholarship",
+    category: "scholarships",
+    link: "https://www.jkcf.org/"
+},
+
+{
+    title: "Horatio Alger Scholarship",
+    category: "scholarships",
+    link: "https://scholars.horatioalger.org/"
+},
+
+{
+    title: "Dell Scholars Program",
+    category: "scholarships",
+    link: "https://www.dellscholars.org/"
+},
+
+{
+    title: "Elks Most Valuable Student Scholarship",
+    category: "scholarships",
+    link: "https://www.elks.org/"
+},
+
+{
+    title: "National Merit Scholarship",
+    category: "scholarships",
+    link: "https://www.nationalmerit.org/"
+},
+
+{
+    title: "Gates Millennium Scholars",
+    category: "scholarships",
+    link: "https://www.thegatesscholarship.org/"
+},
+
+// MORE COURSES
+
+{
+    title: "Stanford Online",
+    category: "courses",
+    link: "https://online.stanford.edu/"
+},
+
+{
+    title: "edX",
+    category: "courses",
+    link: "https://www.edx.org/"
+},
+
+{
+    title: "Elements of AI",
+    category: "courses",
+    link: "https://www.elementsofai.com/"
+},
+
+{
+    title: "Coursera Guided Projects",
+    category: "courses",
+    link: "https://www.coursera.org/projects"
+},
+
+{
+    title: "Google AI Essentials",
+    category: "courses",
+    link: "https://grow.google/"
+},
+
+{
+    title: "CS50 AI",
+    category: "courses",
+    link: "https://cs50.harvard.edu/ai/"
+},
+
+{
+    title: "DeepLearning.AI Courses",
+    category: "courses",
+    link: "https://www.deeplearning.ai/"
+},
+
+{
+    title: "Kaggle Learn",
+    category: "courses",
+    link: "https://www.kaggle.com/learn"
+},
 ];
 
 function createCard(opportunity) {
