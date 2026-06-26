@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shreeurs1978-lang.github.io/skilloft/sitemap.xml
